@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 lol
 THIS IS LOL2 BRANCH
+=======
+123
+>>>>>>> lol
